@@ -48,5 +48,11 @@ Fitur Admin - Menambahkan Member
 
 ![image](https://github.com/ronaldosilitonga/UAS-LAB-PBO5/assets/114576305/ce745095-6b84-48b5-b26b-53eb5c054fe2)
 
+Fitur Admin - Menambahkan Buku
+
+![image](https://github.com/ronaldosilitonga/UAS-LAB-PBO5/assets/114576305/31d3a525-026a-4280-af73-eb3bcd35209b)
+
+dan sebagainya..
+
 
 
