@@ -18,5 +18,9 @@ Untuk SS Output program dapat dilihat di bawah ini :
 
 Menu Login : 
 
-![image](https://github.com/ronaldosilitonga/UAS-LAB-PBO5/assets/114576305/5587a972-99cf-472f-909a-a94f221bbc7a)
+![image](https://github.com/ronaldosilitonga/UAS-LAB-PBO5/assets/114576305/e36474f1-fa88-4bb9-acca-0299ef833177)
+
+Menu Member :
+
+![image](https://github.com/ronaldosilitonga/UAS-LAB-PBO5/assets/114576305/b6730333-5742-45fe-a68b-5ecdfe1914c2)
 
